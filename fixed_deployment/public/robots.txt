@@ -1,0 +1,6 @@
+# robots.txt for AstroJournal
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://astrojournal.vercel.app/sitemap.xml
